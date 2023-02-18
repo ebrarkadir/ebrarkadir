@@ -1,4 +1,5 @@
 ### Hi there 👋
+<script src="https://tryhackme.com/badge/1386947"></script>
 
 <!--
 **ebrarkadir/ebrarkadir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
