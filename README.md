@@ -24,3 +24,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ebrarkadir&show_icons=true&locale=en" alt="ebrarkadir" /></p>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/ekc.png" alt="TryHackMe">
+
+<br/>
+<br/>
+CV : [Ebrar Kadir Çetin CV (2).pdf](https://github.com/ebrarkadir/ebrarkadir/files/12917212/Ebrar.Kadir.Cetin.CV.2.pdf)
+
