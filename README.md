@@ -74,4 +74,3 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/ekc.png" alt="TryHackMe">
 <br/>
-CV : [Ebrar Kadir Çetin CV (2).pdf](https://github.com/ebrarkadir/ebrarkadir/files/12917212/Ebrar.Kadir.Cetin.CV.2.pdf)
