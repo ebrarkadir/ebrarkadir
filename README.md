@@ -41,5 +41,14 @@ Bilgisayar Mühendisliği Öğrencisi | Network & Full Stack Web Geliştirici
 
 ### 📫 Bana Ulaşın
 
-- 💼 [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/ebrar-kadir-%C3%A7etin-1a728019b/)  
-- 🧑‍💻 [GitHub](https://github.com/ebrarkadir)
+<p align="left">
+  <a href="https://www.linkedin.com/in/ebrar-kadir-%C3%A7etin-1a728019b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:cetinebrarkadir@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://instagram.com/ebrarkadircetnn" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
