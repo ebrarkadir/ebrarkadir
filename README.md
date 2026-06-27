@@ -1,6 +1,4 @@
-# 👋 Merhaba, ben Ebrar Kadir Çetin
-
-# 👋 Hi, I’m Ebrar Kadir Çetin
+# 👋 Merhaba, ben Ebrar Kadir Çetin/Hi, I’m Ebrar Kadir Çetin
 
 **Computer Engineer | Cybersecurity & Network | Software Developer**
 
