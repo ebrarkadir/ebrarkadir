@@ -1,6 +1,6 @@
 # 👋 Merhaba, ben Ebrar Kadir Çetin
 
-**Computer Engineer | Cybersecurity & Network | Software Developer **
+Computer Engineer | Cybersecurity & Network | Software Developer
 
 ---
 
